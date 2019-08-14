@@ -1,5 +1,5 @@
 # Unity Http下载文件工具
-- 环境：支持UnityWebRequest的Unity版本  
+- 环境：支持UnityWebRequest和DownloadHandlerScript的Unity版本（Unity5.3.2版本不可以 Unity2017以后都可以 中间的没测试）  
 - 描述：  
 1. 批量下载、断点续传   
 2. 下载进度、完成回调    
@@ -44,4 +44,4 @@
             DownloadObj downloadObj = UnityDownloadManager.instance.GetDownloadObjByID(id);                 
 ```
 5. DownloadObj类解析
-![image](https://github.com/yoyohan1/Unity_HttpDownloadTool/DownloadObj类解析.png)
+![image](https://github.com/yoyohan1/Unity_HttpDownloadTool/blob/master/DownloadObj%E7%B1%BB%E8%A7%A3%E6%9E%90.png)
