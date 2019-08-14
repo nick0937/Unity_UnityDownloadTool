@@ -1,6 +1,6 @@
 # Unity Http下载文件工具
 - 环境：  
-支持UnityWebRequest和DownloadHandlerScript的Unity版本（Unity5.3.2版本不可以 Unity2017以后都可以 中间的没测试）  
+支持UnityWebRequest和DownloadHandlerScript的Unity版本（Unity5.3.2不可以 2017以后都可以 中间的没测试）  
 - 描述：  
 1. 批量下载、断点续传   
 2. 下载进度、完成回调    
