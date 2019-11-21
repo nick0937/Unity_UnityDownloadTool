@@ -10,9 +10,9 @@ using System.IO;
 /// 作者：yoyohan
 /// 创建时间：2019-05-13 11:54:35
 /// </summary>
-public class DownloadObj //: GridDataBase
+public class DownloadObj
 {
-    public new int id;//唯一值 去区分
+    public int id;//唯一值 去区分
     public string url;
     public string parentPath;
     public string fileName;
