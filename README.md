@@ -6,7 +6,7 @@
 2. 下载进度、完成回调    
 3. 支持暂停、继续、删除下载  
 4. 本地持久化存储下载历史和下载Extra参数，下载工具类启动时把正在下载的自动开始下载  
-5. 内含依赖工具：Newtonsoft、PoolManager、GameExtension
+5. 内含依赖工具：LitMiniJson、PoolManager、GameExtension
 ### 示例代码：（项目里也有demo场景）
 ```
 1. 第一步启动下载器
