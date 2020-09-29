@@ -1,0 +1,10 @@
+{
+  "name": "com.yoyohan.litminijson",
+  "displayName": "LitMiniJson",
+  "version": "1.0.0",
+  "description": "LitMiniJson适用于ios版 阉割版的LitJson 使用MiniJson替换核心代码",
+  "keywords": [
+    "LitMiniJson"
+  ],
+  "dependencies": {}
+}
